@@ -7,11 +7,7 @@
  */
 
 /* IMPORTANT: make sure to enable dark mode in Discord settings for the theme to apply properly!!! */
-@import url('https://raw.githubusercontent.com/CrimZenEdits/Nexus-Evolution/refs/heads/main/Font.css');
-@import url('https://raw.githubusercontent.com/CrimZenEdits/Nexus-Evolution/refs/heads/main/icos.css');
-@import url('https://github.com/CrimZenEdits/Nexus-Evolution/raw/refs/heads/main/3.css');
-@import url('https://github.com/CrimZenEdits/Nexus-Evolution/raw/refs/heads/main/2.css');
-@import url('https://github.com/CrimZenEdits/Nexus-Evolution/raw/refs/heads/main/1.css');
+@import url('https://raw.githubusercontent.com/CrimZenEdits/Nexus-Evolution/refs/heads/main/All.css');
 /* Customize things here */
 :root {
     /*settings modal root*/
